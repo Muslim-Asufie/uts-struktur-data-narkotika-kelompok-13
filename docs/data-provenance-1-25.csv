@@ -1,0 +1,351 @@
+case_id,field_name,value,source_file,source_page,extractor,reviewer,status
+PUT-001,nomor_perkara,254/Pid.Sus/2026/PN Sda,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 1,Aditya,Muslim,verified
+PUT-001,pengadilan,Pengadilan Negeri Sidoarjo,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 1,Aditya,Muslim,verified
+PUT-001,tanggal_putusan,2026-08-26,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 27,Aditya,Muslim,verified
+PUT-001,kode_terdakwa,TRD-01,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 1,Aditya,Muslim,verified
+PUT-001,jenis_narkotika,Sabu,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 2,Aditya,Muslim,verified
+PUT-001,berat_barang_bukti_gram,9.668,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 4; hal. 5,Aditya,Muslim,verified
+PUT-001,pasal_didakwakan,Pasal 114 Ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 Ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 2,Aditya,Muslim,verified
+PUT-001,pasal_terbukti,Pasal 114 Ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26,Aditya,Muslim,verified
+PUT-001,tuntutan_bulan,120,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 2,Aditya,Muslim,verified
+PUT-001,vonis_bulan,84,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26,Aditya,Muslim,verified
+PUT-001,denda_rupiah,800000000,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26,Aditya,Muslim,verified
+PUT-001,barang_bukti,10 bungkus plastik klip sabu berat netto total 9.668 g; 1 bungkus bekas rokok Dunhill; 1 lembar kerta putih; 1 potongan isolasi hitam; 1 potong jaket warna hitam lis Biru Merk Asics Ukuran L; 1 unit Handphone Merk Redmi Type Note 13 Warna Biru; Seperangkat alat hisap sabu; 1 buah dompet warna coklat; 1 buah korek api gas warna biru; 1 buah pipet kaca; 1 buah sekrop sedotan plastik; 1 unit sepeda motor Merk Suzuki Tipe FU 150 SCD Warna Merah Hitam,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26; hal. 27,Aditya,Muslim,verified
+PUT-001,keadaan_memberatkan,Perbuatan Terdakwa meresahkan masyarakat; Terdakwa tidak mendukung program pemerintah dalam melakukan pemberantasan peredaran gelap narkotika,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26,Aditya,Muslim,verified
+PUT-001,keadaan_meringankan,Terdakwa belum pernah dihukum; Terdakwa bersikap sopan dan berterus terang sehingga memperlancar jalannya persidangan,putusan_254_pid.sus_2026_pn_sda_20261107180808.pdf,hal. 26,Aditya,Muslim,verified
+PUT-002,nomor_perkara,257/Pid.Sus/2026/PN Sda,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-002,pengadilan,Pengadilan Negeri Sidoarjo,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-002,tanggal_putusan,2026-08-27,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 24,Aditya,Muslim,verified
+PUT-002,kode_terdakwa,TRD-02,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-002,jenis_narkotika,Sabu,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-002,berat_barang_bukti_gram,1.16,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 5; hal. 6,Aditya,Muslim,verified
+PUT-002,pasal_didakwakan,Pasal 114 Ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 Ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-002,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23,Aditya,Muslim,verified
+PUT-002,tuntutan_bulan,96,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-002,vonis_bulan,84,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23,Aditya,Muslim,verified
+PUT-002,denda_rupiah,500000000,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23,Aditya,Muslim,verified
+PUT-002,barang_bukti,5 bungkus plastic klip sabu (0.35 g; 0.22 g; 0.22 g; 0.20 g; 0.17 g); 1 pipet kaca sabu sisa pakai 1.84 g; Seperangkat alat hisab sabu / bong; 5 potong sedotan plastik beserta isolasi hitam; 1 buah korek gas; 1 buah masker warna putih; 1 tas cangklong warna abu-abu; 1 unit HP merk Oppo A.15 warna Putih,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23; hal. 24,Aditya,Muslim,verified
+PUT-002,keadaan_memberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika; Perbuatan terdakwa berpotensi merusak masa depan bangsa,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23,Aditya,Muslim,verified
+PUT-002,keadaan_meringankan,Terdakwa sopan di persidangan; Terdakwa mengakui terus terang perbuatannya dalam persidangan; Terdakwa belum pernah dihukum,putusan_257_pid.sus_2026_pn_sda_20261105200441.pdf,hal. 23,Aditya,Muslim,verified
+PUT-003,nomor_perkara,264/Pid.Sus/2026/PN Sda,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 1,Aditya,Muslim,verified
+PUT-003,pengadilan,Pengadilan Negeri Sidoarjo,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 1,Aditya,Muslim,verified
+PUT-003,tanggal_putusan,2026-09-07,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 52,Aditya,Muslim,verified
+PUT-003,kode_terdakwa,TRD-03,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 1,Aditya,Muslim,verified
+PUT-003,jenis_narkotika,Sabu,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 2,Aditya,Muslim,verified
+PUT-003,berat_barang_bukti_gram,7.89,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 10; hal. 13,Aditya,Muslim,verified
+PUT-003,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 2,Aditya,Muslim,verified
+PUT-003,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51,Aditya,Muslim,verified
+PUT-003,tuntutan_bulan,96,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 2,Aditya,Muslim,verified
+PUT-003,vonis_bulan,84,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51,Aditya,Muslim,verified
+PUT-003,denda_rupiah,1000000000,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51,Aditya,Muslim,verified
+PUT-003,barang_bukti,1 plastik ziplock; 4 plastik klip masing-masing isi sabu berat: 1.33 g; 1.33 g; 1.33 g; 1.34 g; 0.55 g; 1 plastik klip isi ganja berat 2.01 g; 1 buah sekrop terbuat dari potongan sedotan; 1 buah pipet kaca isi sabu sisa konsumsi berat 1.86 g; 1 buah alat hisab sabu terbuat dari botol plastik; 1 buah Handphone merk Vivo warna hijau tosca,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51; hal. 52,Aditya,Muslim,verified
+PUT-003,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pencegahan dan pemberantasan tindak pidana narkotika; Perbuatan Terdakwa berpotensi merusak generasi muda,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51,Aditya,Muslim,verified
+PUT-003,keadaan_meringankan,Terdakwa mengakui terus terang perbuatannya dalam persidangan; Terdakwa menyesali perbuatannya; Terdakwa tidak berbelit-belit dalam memberikan keterangan dan bersikap kooperatif pada saat persidangan; Terdakwa belum pernah dihukum,putusan_264_pid.sus_2026_pn_sda_20261107180524.pdf,hal. 51,Aditya,Muslim,verified
+PUT-004,nomor_perkara,279/Pid.Sus/2026/PN Sda,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 1,Aditya,Muslim,verified
+PUT-004,pengadilan,Pengadilan Negeri Sidoarjo,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 1,Aditya,Muslim,verified
+PUT-004,tanggal_putusan,2026-09-01,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 19,Aditya,Muslim,verified
+PUT-004,kode_terdakwa,TRD-04,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 1,Aditya,Muslim,verified
+PUT-004,jenis_narkotika,Sabu,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 2,Aditya,Muslim,verified
+PUT-004,berat_barang_bukti_gram,0.476,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 4; hal. 5,Aditya,Muslim,verified
+PUT-004,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 2,Aditya,Muslim,verified
+PUT-004,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18,Aditya,Muslim,verified
+PUT-004,tuntutan_bulan,84,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 2,Aditya,Muslim,verified
+PUT-004,vonis_bulan,60,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18,Aditya,Muslim,verified
+PUT-004,denda_rupiah,1000000000,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18,Aditya,Muslim,verified
+PUT-004,barang_bukti,3 bungkus plastik klip sabu (0.28 g; 0.26 g; 0.26 g); 1 buah dompet warna kuning; 1 buah tas punggung warna abu-abu; 1 buah HP merk Oppo warna hitam; 1 unit sepeda motor Yamaha N Max hitam,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18; hal. 19,Aditya,Muslim,verified
+PUT-004,keadaan_memberatkan,Terdakwa pernah dihukum dalam perkara narkotika; Perbuatan terdakwa tidak mendukung upaya pemerintah dalam pemberantasan penyalahgunaan narkotika,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18,Aditya,Muslim,verified
+PUT-004,keadaan_meringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_279_pid.sus_2026_pn_sda_20261107180607.pdf,hal. 18,Aditya,Muslim,verified
+PUT-005,nomor_perkara,285/Pid.Sus/2026/PN Sda,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 1,Aditya,Muslim,verified
+PUT-005,pengadilan,Pengadilan Negeri Sidoarjo,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 1,Aditya,Muslim,verified
+PUT-005,tanggal_putusan,2026-08-27,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 36,Aditya,Muslim,verified
+PUT-005,kode_terdakwa,TRD-05,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 1,Aditya,Muslim,verified
+PUT-005,jenis_narkotika,Sabu,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 2,Aditya,Muslim,verified
+PUT-005,berat_barang_bukti_gram,7.363,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 6; hal. 9,Aditya,Muslim,verified
+PUT-005,pasal_didakwakan,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 2,Aditya,Muslim,verified
+PUT-005,pasal_terbukti,Pasal 114 ayat (2) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35,Aditya,Muslim,verified
+PUT-005,tuntutan_bulan,96,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 2,Aditya,Muslim,verified
+PUT-005,vonis_bulan,72,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35,Aditya,Muslim,verified
+PUT-005,denda_rupiah,1000000000,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35,Aditya,Muslim,verified
+PUT-005,barang_bukti,13 bungkus plastik sabu berat bersih 7.363 g (disita dari saksi Joko Untung); 1 buah HP merek OPPO warna biru,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35; hal. 36,Aditya,Muslim,verified
+PUT-005,keadaan_memberatkan,Perbuatan terdakwa menghambat program Pemerintah dalam pemberantasan narkotika,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35,Aditya,Muslim,verified
+PUT-005,keadaan_meringankan,Terdakwa belum pernah dihukum; Terdakwa mengakui dan menyesali perbuatannya; Terdakwa tidak berbelit-belit dalam memberikan keterangan dan bersikap kooperatif pada saat persidangan,putusan_285_pid.sus_2026_pn_sda_20261107180838.pdf,hal. 35,Aditya,Muslim,verified
+PUT-006,nomor_perkara,289/Pid.Sus/2026/PN Sda,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 1,Aditya,Muslim,verified
+PUT-006,pengadilan,Pengadilan Negeri Sidoarjo,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 1,Aditya,Muslim,verified
+PUT-006,tanggal_putusan,2026-09-14,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 41,Aditya,Muslim,verified
+PUT-006,kode_terdakwa,TRD-06,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 1,Aditya,Muslim,verified
+PUT-006,jenis_narkotika,Sabu,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 2,Aditya,Muslim,verified
+PUT-006,berat_barang_bukti_gram,0.963,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 5,Aditya,Muslim,verified
+PUT-006,pasal_didakwakan,Pasal 114 ayat (1) Jo Pasal 132 UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a Jo Pasal 132 ayat (1) UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 2,Aditya,Muslim,verified
+PUT-006,pasal_terbukti,Pasal 114 ayat (1) Jo Pasal 132 UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40,Aditya,Muslim,verified
+PUT-006,tuntutan_bulan,96,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 2,Aditya,Muslim,verified
+PUT-006,vonis_bulan,84,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40,Aditya,Muslim,verified
+PUT-006,denda_rupiah,1000000000,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40,Aditya,Muslim,verified
+PUT-006,barang_bukti,1 handphone merk OPPO warna ungu Nomor SIM Card 085215394469,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40; hal. 41,Aditya,Muslim,verified
+PUT-006,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pencegahan dan pemberantasan tindak pidana narkotika; Terdakwa Narapidana dalam Lapas Porong dalam kasus Narkotika,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40,Aditya,Muslim,verified
+PUT-006,keadaan_meringankan,Terdakwa mengakui terus terang perbuatannya dalam persidangan; Terdakwa menyesali perbuatannya; Terdakwa tidak berbelit-belit dalam memberikan keterangan dan bersikap kooperatif pada saat persidangan,putusan_289_pid.sus_2026_pn_sda_20261107180350.pdf,hal. 40,Aditya,Muslim,verified
+PUT-007,nomor_perkara,290/Pid.Sus/2026/PN Sda,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 1,Aditya,Muslim,verified
+PUT-007,pengadilan,Pengadilan Negeri Sidoarjo,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 1,Aditya,Muslim,verified
+PUT-007,tanggal_putusan,2026-09-03,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 33,Aditya,Muslim,verified
+PUT-007,kode_terdakwa,TRD-07,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 1,Aditya,Muslim,verified
+PUT-007,jenis_narkotika,Sabu,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 2,Aditya,Muslim,verified
+PUT-007,berat_barang_bukti_gram,2.457,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 6; hal. 11,Aditya,Muslim,verified
+PUT-007,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 2,Aditya,Muslim,verified
+PUT-007,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32,Aditya,Muslim,verified
+PUT-007,tuntutan_bulan,84,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 2,Aditya,Muslim,verified
+PUT-007,vonis_bulan,72,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32,Aditya,Muslim,verified
+PUT-007,denda_rupiah,1000000000,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32,Aditya,Muslim,verified
+PUT-007,barang_bukti,12 bungkus klip sabu (berat netto total 2.457 gram); 10 bekas bungkus sabu dari sedotan; 1 pak plastik kosong; 4 buah skrop plastik; 2 buah pipet kaca; Seperangkat alat hisap; 1 buah timbangan elektronik; 1 buah Handphone merk Vivo Type 71 warna putih; 1 buah Handphone merk Samsung Type A30 warna hitam,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32; hal. 33,Aditya,Muslim,verified
+PUT-007,keadaan_memberatkan,Perbuatan terdakwa meresahkan masyarakat; Perbuatan terdakwa dilakukan pada saat Pemerintah sedang gencar gencarnya memberantas Penyalahgunaan Narkotika,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32,Aditya,Muslim,verified
+PUT-007,keadaan_meringankan,Terdakwa mengakui dan menyesali perbuatannya; Terdakwa belum pernah dihukum; Terdakwa mempunyai tanggungan keluarga,putusan_290_pid.sus_2026_pn_sda_20261107180746.pdf,hal. 32,Aditya,Muslim,verified
+PUT-008,nomor_perkara,292/Pid.Sus/2026/PN Sda,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 1,Aditya,Muslim,verified
+PUT-008,pengadilan,Pengadilan Negeri Sidoarjo,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 1,Aditya,Muslim,verified
+PUT-008,tanggal_putusan,2026-09-03,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 24,Aditya,Muslim,verified
+PUT-008,kode_terdakwa,TRD-08,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 1,Aditya,Muslim,verified
+PUT-008,jenis_narkotika,Sabu,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 2,Aditya,Muslim,verified
+PUT-008,berat_barang_bukti_gram,53.29,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 6; hal. 8,Aditya,Muslim,verified
+PUT-008,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 2,Aditya,Muslim,verified
+PUT-008,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22,Aditya,Muslim,verified
+PUT-008,tuntutan_bulan,120,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 2,Aditya,Muslim,verified
+PUT-008,vonis_bulan,84,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22,Aditya,Muslim,verified
+PUT-008,denda_rupiah,500000000,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22,Aditya,Muslim,verified
+PUT-008,barang_bukti,123 bungkus plastik klip sabu (total berat 53.29 gram) beserta bungkus plastiknya; 60 buah potongan sedotan plastic warna kuning; 52 potongan sedotan plastik warna hijau; 3 buah potongan sedotan plastic warma bening garis merah; 1 buah kotak Hp warna putih merk Relmi; 1 buah tempat lap warna kuning merk kenmaster; 2 pak plastic klip; 2 buah timbangan elektrik warna silver dan hitam; 1 buah kantong kresek warna hitam; 1 tas berisi pecahan asbes kramik dan genteng; 1 tas berisi sedotan plastik; 4 buah potongan sedotan plastik (sekrop); 1 buah palu besi; 1 peket alat isap sabu / bong; 1 buah hp merk realmi warna ungu; 1 unit sepeda motor honda Scopy warna merah putih,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22; hal. 23; hal. 24,Aditya,Muslim,verified
+PUT-008,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam pemberantasan Narkotika,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22,Aditya,Muslim,verified
+PUT-008,keadaan_meringankan,Terdakwa tidak kerja dan untuk bantu orang tua; Terdakwa belum pernah dihukum,putusan_292_pid.sus_2026_pn_sda_20261107180757.pdf,hal. 22,Aditya,Muslim,verified
+PUT-009,nomor_perkara,299/Pid.Sus/2026/PN Sda,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 1,Aditya,Muslim,verified
+PUT-009,pengadilan,Pengadilan Negeri Sidoarjo,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 1,Aditya,Muslim,verified
+PUT-009,tanggal_putusan,2026-09-15,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 17,Aditya,Muslim,verified
+PUT-009,kode_terdakwa,TRD-09,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 1,Aditya,Muslim,verified
+PUT-009,jenis_narkotika,Sabu,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 2,Aditya,Muslim,verified
+PUT-009,berat_barang_bukti_gram,0.183,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 4; hal. 6,Aditya,Muslim,verified
+PUT-009,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 2,Aditya,Muslim,verified
+PUT-009,pasal_terbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16,Aditya,Muslim,verified
+PUT-009,tuntutan_bulan,84,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 2,Aditya,Muslim,verified
+PUT-009,vonis_bulan,60,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16,Aditya,Muslim,verified
+PUT-009,denda_rupiah,0,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16,Aditya,Muslim,verified
+PUT-009,barang_bukti,1 bungkus plastik berisi Narkotika jenis sabu berat 0.34 Gram ditimbang beserta plastiknya; 1 buah potongan sedotan plastik warna hijau; 1 buah bungkus rokok Marbol; 1 buah tas Cangklong warna Coklat merk POLODANNY; 1 unit Handphone merk OPPO Type A39 warna Gold,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16; hal. 17,Aditya,Muslim,verified
+PUT-009,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung pemerintah yang sedang giat-giatnya memberantas narkoba; Terdakwa sudah pernah dihukum,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16,Aditya,Muslim,verified
+PUT-009,keadaan_meringankan,Terdakwa bersikap sopan dipersidangan dan mengaku terus terang; Terdakwa menyesali perbuatannya,putusan_299_pid.sus_2026_pn_sda_20261107180322.pdf,hal. 16,Aditya,Muslim,verified
+PUT-010,nomor_perkara,300/Pid.Sus/2026/PN Sda,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 1,Aditya,Muslim,verified
+PUT-010,pengadilan,Pengadilan Negeri Sidoarjo,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 1,Aditya,Muslim,verified
+PUT-010,tanggal_putusan,2026-09-09,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 30,Aditya,Muslim,verified
+PUT-010,kode_terdakwa,TRD-10,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 1,Aditya,Muslim,verified
+PUT-010,jenis_narkotika,Sabu,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 2,Aditya,Muslim,verified
+PUT-010,berat_barang_bukti_gram,6.937,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 5; hal. 7,Aditya,Muslim,verified
+PUT-010,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 2,Aditya,Muslim,verified
+PUT-010,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28,Aditya,Muslim,verified
+PUT-010,tuntutan_bulan,96,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 2,Aditya,Muslim,verified
+PUT-010,vonis_bulan,84,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28,Aditya,Muslim,verified
+PUT-010,denda_rupiah,1000000000,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28,Aditya,Muslim,verified
+PUT-010,barang_bukti,10 bungkus plastik klip sabu (3.05g; 1.71g; 1.05g; 1.04g; 0.30g; 0.30g; 0.31g; 0.32g; 0.32g; 0.34g); 2 bungkusan plastik warna hitam; 5 potongan sedotan warna kuning sebagai bungkus paket kemasan; 1 buah timbangan elektrik warna silver atau abu-abu; 1 buah potongan sedotan sebagai sekrop; 1 pak plastik klip ukuran kecil 3x5; 1 pak plastik klip ukuran sedang 8.7x13; 1 buah kotak menyerupai buku sebagai wadah; 1 buah Handphone merk VIVO warna ungu serie Y21d,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28; hal. 29; hal. 30,Aditya,Muslim,verified
+PUT-010,keadaan_memberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah yang lagi gencar-gencarnya memberantas peredaran narkoba khususnya di daerah Jawa Timur dan merusak moral generasi muda bangsa,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28,Aditya,Muslim,verified
+PUT-010,keadaan_meringankan,Terdakwa berterus terang dan berlaku sopan dipersidangan sehingga memperlancar jalannya persidangan; Terdakwa merasa bersalah dan menyesali perbuatannya serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa mempunyai tanggungan keluarga; Terdakwa belum pernah dihukum,putusan_300_pid.sus_2026_pn_sda_20261107180451.pdf,hal. 28,Aditya,Muslim,verified
+PUT-011,nomor_perkara,302/Pid.Sus/2026/PN Sda,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 1,Aditya,Muslim,verified
+PUT-011,pengadilan,Pengadilan Negeri Sidoarjo,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 1,Aditya,Muslim,verified
+PUT-011,tanggal_putusan,2026-09-16,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 34,Aditya,Muslim,verified
+PUT-011,kode_terdakwa,TRD-11,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 1,Aditya,Muslim,verified
+PUT-011,jenis_narkotika,Sabu,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 2,Aditya,Muslim,verified
+PUT-011,berat_barang_bukti_gram,8.031,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 6; hal. 7; hal. 8; hal. 9,Aditya,Muslim,verified
+PUT-011,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 2,Aditya,Muslim,verified
+PUT-011,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 32,Aditya,Muslim,verified
+PUT-011,tuntutan_bulan,96,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 2,Aditya,Muslim,verified
+PUT-011,vonis_bulan,72,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 33,Aditya,Muslim,verified
+PUT-011,denda_rupiah,600000000,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 33,Aditya,Muslim,verified
+PUT-011,barang_bukti,1 bungkus plastik klip sabu (6.02 g); 1 klip berisi 5 klip paket sabu (0.67 g; 0.49 g; 0.50 g; 0.66 g; 0.56 g); 1 bungkus tissu berisi 1 klip sabu (1.82 g); 1 buah tas selempang warna hitam merk EIGER; 1 buah bungkus rokok merek AYLA warna hitam; 1 buah Handphone merk INFINIX X65311B warna ungu metalik,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 32; hal. 33; hal. 34,Aditya,Muslim,verified
+PUT-011,keadaan_memberatkan,Perbuatan terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 32,Aditya,Muslim,verified
+PUT-011,keadaan_meringankan,Terdakwa belum pernah dihukum; Terdakwa mengakui perbuatannya; Terdakwa menyesali perbuatannya,putusan_302_pid.sus_2026_pn_sda_20261107180238.pdf,hal. 32,Aditya,Muslim,verified
+PUT-012,nomor_perkara,310/Pid.Sus/2026/PN Sda,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 1,Aditya,Muslim,verified
+PUT-012,pengadilan,Pengadilan Negeri Sidoarjo,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 1,Aditya,Muslim,verified
+PUT-012,tanggal_putusan,2026-09-08,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 20,Aditya,Muslim,verified
+PUT-012,kode_terdakwa,TRD-12,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 1,Aditya,Muslim,verified
+PUT-012,jenis_narkotika,Sabu,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 2,Aditya,Muslim,verified
+PUT-012,berat_barang_bukti_gram,3.424,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 5,Aditya,Muslim,verified
+PUT-012,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 2,Aditya,Muslim,verified
+PUT-012,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19,Aditya,Muslim,verified
+PUT-012,tuntutan_bulan,96,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 2,Aditya,Muslim,verified
+PUT-012,vonis_bulan,84,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19,Aditya,Muslim,verified
+PUT-012,denda_rupiah,0,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19,Aditya,Muslim,verified
+PUT-012,barang_bukti,15 bungkus plastik klip sabu (0.385 g; 0.345 g; 0.358 g; 0.366 g; 0.169 g; 0.148 g; 0.161 g; 0.159 g; 0.160 g; 0.177 g; 0.170 g; 0.163 g; 0.167 g; 0.162 g; 0.361 g); 15 buah bungkus sedotan; 1 skrop dari sedotan plastik; 1 buah bungkus lem G; 1 buah alat hisap; 1 buah Hp merek Infinix warna gold,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19; hal. 20,Aditya,Muslim,verified
+PUT-012,keadaan_memberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah dalam pemberantasan peredaran gelap Narkotika; Perbuatan Terdakwa berpotensi merusak kesehatan dan masa depan masyarakat; Terdakwa telah dua kali menerima narkotika dari Roup; Terdakwa yang melakukan peranjauan narkotika yang diperolehnya dari Roup,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19,Aditya,Muslim,verified
+PUT-012,keadaan_meringankan,Terdakwa mengakui terus terang perbuatannya; Terdakwa bersikap sopan; Terdakwa menyesali perbuatannya dan berjanji tidak akan mengulangi; Terdakwa belum pernah dihukum; Terdakwa merupakan tulang punggung keluarga,putusan_310_pid.sus_2026_pn_sda_20261107180551.pdf,hal. 19,Aditya,Muslim,verified
+PUT-013,nomor_perkara,337/Pid.Sus/2026/PN Sda,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 1,Aditya,Muslim,verified
+PUT-013,pengadilan,Pengadilan Negeri Sidoarjo,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 1,Aditya,Muslim,verified
+PUT-013,tanggal_putusan,2026-09-22,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 69,Aditya,Muslim,verified
+PUT-013,kode_terdakwa,TRD-13,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 1,Aditya,Muslim,verified
+PUT-013,jenis_narkotika,Sabu,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 2,Aditya,Muslim,verified
+PUT-013,berat_barang_bukti_gram,0,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 67; hal. 68,Aditya,Muslim,verified
+PUT-013,pasal_didakwakan,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2026,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 2,Aditya,Muslim,verified
+PUT-013,pasal_terbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 68,Aditya,Muslim,verified
+PUT-013,tuntutan_bulan,96,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 2,Aditya,Muslim,verified
+PUT-013,vonis_bulan,72,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 68,Aditya,Muslim,verified
+PUT-013,denda_rupiah,1000000000,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 68,Aditya,Muslim,verified
+PUT-013,barang_bukti,1 buah Handphone merk Tecno spark warna abu-abu,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 68; hal. 69,Aditya,Muslim,verified
+PUT-013,keadaan_memberatkan,Perbuatan Terdakwa dilakukan pada saat Pemerintah sedang giat-giatnya melaksanakan pemberantasan penyalahgunaan Narkotika,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 67,Aditya,Muslim,verified
+PUT-013,keadaan_meringankan,Terdakwa belum pernah dihukum; Terdakwa masih berusia muda sehingga masih ada harapan untuk memperbaiki dirinya dikemudian hari; Terdakwa bersikap sopan dipersidangan dan mengakui terus terang perbuatannya dan Terdakwa menyatakan penyesalannya,putusan_337_pid.sus_2026_pn_sda_20261107180208.pdf,hal. 68,Aditya,Muslim,verified
+PUT-014,nomor_perkara,313/Pid.Sus/2026/PN Sda,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 1,Aditya,Muslim,verified
+PUT-014,pengadilan,Pengadilan Negeri Sidoarjo,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 1,Aditya,Muslim,verified
+PUT-014,tanggal_putusan,2026-09-29,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 63,Aditya,Muslim,verified
+PUT-014,kode_terdakwa,TRD-14,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 1,Aditya,Muslim,verified
+PUT-014,jenis_narkotika,Sabu,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 2,Aditya,Muslim,verified
+PUT-014,berat_barang_bukti_gram,5925.29,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 4; hal. 13,Aditya,Muslim,verified
+PUT-014,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026 Jo Pasal 132 Ayat (1) UU No. 35 Tahun 2009; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026 Jo Pasal 132 Ayat (1) UU No. 35 Tahun 2009,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 2,Aditya,Muslim,verified
+PUT-014,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026 Jo Pasal 132 Ayat (1) UU No. 35 Tahun 2009,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 60; hal. 61,Aditya,Muslim,verified
+PUT-014,tuntutan_bulan,216,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 2,Aditya,Muslim,verified
+PUT-014,vonis_bulan,180,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 61,Aditya,Muslim,verified
+PUT-014,denda_rupiah,300000000,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 61,Aditya,Muslim,verified
+PUT-014,barang_bukti,6 bungkus plastik sabu warna hijau (total berat netto 5925.29 gram); 1 buah Ransel warna hitam merk Pollo Fila; 1 buah Handphone merk Redmi warna biru tua,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 61; hal. 62; hal. 63,Aditya,Muslim,verified
+PUT-014,keadaan_memberatkan,Perbuatan terdakwa menghambat program Pemerintah dalam pemberantasan narkotika; Terdakwa pernah dihukum,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 60,Aditya,Muslim,verified
+PUT-014,keadaan_meringankan,Terdakwa mengakui terus terang perbuatannya dan bersikap kooperatif pada saat persidangan,putusan_313_pid.sus_2026_pn_sda_20261107180039.pdf,hal. 60,Aditya,Muslim,verified
+PUT-015,nomor_perkara,316/Pid.Sus/2026/PN Sda,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 1,Aditya,Muslim,verified
+PUT-015,pengadilan,Pengadilan Negeri Sidoarjo,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 1,Aditya,Muslim,verified
+PUT-015,tanggal_putusan,2026-09-03,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 26,Aditya,Muslim,verified
+PUT-015,kode_terdakwa,TRD-15,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 1,Aditya,Muslim,verified
+PUT-015,jenis_narkotika,Sabu,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 2,Aditya,Muslim,verified
+PUT-015,berat_barang_bukti_gram,184.13,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 2,Aditya,Muslim,verified
+PUT-015,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 2,Aditya,Muslim,verified
+PUT-015,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 24,Aditya,Muslim,verified
+PUT-015,tuntutan_bulan,132,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 2,Aditya,Muslim,verified
+PUT-015,vonis_bulan,120,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 25,Aditya,Muslim,verified
+PUT-015,denda_rupiah,1000000000,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 25,Aditya,Muslim,verified
+PUT-015,barang_bukti,2 bungkus plastik klip sabu (total berat netto 184.13 gram); 1 buah tas kresek kecil warna hitam; 1 buah HP merk OPPO A16 warna hitam; 1 buah HP merk Realme C11 warna hitam; 1 unit mobil Daihatsu Sigra warna putih Nopol M-1813-TX,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 25,Aditya,Muslim,verified
+PUT-015,keadaan_memberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana narkotika; Perbuatan terdakwa berpotensi merusak masa depan bangsa; Terdakwa sudah pernah dihukum,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 24,Aditya,Muslim,verified
+PUT-015,keadaan_meringankan,Terdakwa sopan di persidangan; Terdakwa mengakui terus terang perbuatannya dalam persidangan,putusan_316_pid.sus_2026_pn_sda_20261107180628.pdf,hal. 24,Aditya,Muslim,verified
+PUT-016,nomor_perkara,329/Pid.Sus/2026/PN Sda,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 1,Aditya,Muslim,verified
+PUT-016,pengadilan,Pengadilan Negeri Sidoarjo,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 1,Aditya,Muslim,verified
+PUT-016,tanggal_putusan,2026-08-27,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 31,Aditya,Muslim,verified
+PUT-016,kode_terdakwa,TRD-16,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 1,Aditya,Muslim,verified
+PUT-016,jenis_narkotika,Sabu,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 2,Aditya,Muslim,verified
+PUT-016,berat_barang_bukti_gram,0.232,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 5,Aditya,Muslim,verified
+PUT-016,pasal_didakwakan,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 2,Aditya,Muslim,verified
+PUT-016,pasal_terbukti,Pasal 114 ayat (1) jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 29,Aditya,Muslim,verified
+PUT-016,tuntutan_bulan,84,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 2,Aditya,Muslim,verified
+PUT-016,vonis_bulan,60,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 30,Aditya,Muslim,verified
+PUT-016,denda_rupiah,1000000000,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 30,Aditya,Muslim,verified
+PUT-016,barang_bukti,2 plastik klip sabu (total berat netto 0.232 gram); 1 buah HP merk Realme type C15 warna merah; 1 buah timbangan elektrik; 1 pak plastik klip kosong; Seperangkat alat hisap sabu,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 30,Aditya,Muslim,verified
+PUT-016,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung program Pemerintah dalam pemberantasan Narkotika,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 29,Aditya,Muslim,verified
+PUT-016,keadaan_meringankan,Terdakwa mengakui perbuatannya; Terdakwa belum pernah dihukum,putusan_329_pid.sus_2026_pn_sda_20261106104546.pdf,hal. 29,Aditya,Muslim,verified
+PUT-017,nomor_perkara,335/Pid.Sus/2026/PN Sda,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 1,Aditya,Muslim,verified
+PUT-017,pengadilan,Pengadilan Negeri Sidoarjo,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 1,Aditya,Muslim,verified
+PUT-017,tanggal_putusan,2026-09-09,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 23,Aditya,Muslim,verified
+PUT-017,kode_terdakwa,TRD-17,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 1,Aditya,Muslim,verified
+PUT-017,jenis_narkotika,Sabu,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 2,Aditya,Muslim,verified
+PUT-017,berat_barang_bukti_gram,3.847,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 4; hal. 5,Aditya,Muslim,verified
+PUT-017,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 2,Aditya,Muslim,verified
+PUT-017,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 21,Aditya,Muslim,verified
+PUT-017,tuntutan_bulan,96,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 2,Aditya,Muslim,verified
+PUT-017,vonis_bulan,72,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 22,Aditya,Muslim,verified
+PUT-017,denda_rupiah,1000000000,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 22,Aditya,Muslim,verified
+PUT-017,barang_bukti,12 bungkus klip sabu (total berat 3.847 gram); 1 kardus bekas berisi 6 pak plastik klip kosong; Seperangkat alat hisap sabu beserta pipetnya; 1 potong sedotan plastik pengambil sabu (Skrop); 1 buah timbangan elektrik warna hitam merek Camry; 1 buah HP merk Redmi,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 22,Aditya,Muslim,verified
+PUT-017,keadaan_memberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah yang lagi gencar-gencarnya memberantas peredaran narkoba khususnya di daerah Jawa Timur dan merusak moral generasi muda bangsa,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 21,Aditya,Muslim,verified
+PUT-017,keadaan_meringankan,Terdakwa berterus terang dan berlaku sopan dipersidangan sehingga memperlancar jalannya persidangan; Terdakwa merasa bersalah dan menyesali perbuatannya serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa mempunyai tanggungan keluarga; Terdakwa belum pernah dihukum,putusan_335_pid.sus_2026_pn_sda_20261107180510.pdf,hal. 21,Aditya,Muslim,verified
+PUT-018,nomor_perkara,338/Pid.Sus/2026/PN Sda,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 1,Aditya,Muslim,verified
+PUT-018,pengadilan,Pengadilan Negeri Sidoarjo,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 1,Aditya,Muslim,verified
+PUT-018,tanggal_putusan,2026-09-22,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 80,Aditya,Muslim,verified
+PUT-018,kode_terdakwa,TRD-18,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 1,Aditya,Muslim,verified
+PUT-018,jenis_narkotika,Sabu,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 2,Aditya,Muslim,verified
+PUT-018,berat_barang_bukti_gram,0,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 3,Aditya,Muslim,verified
+PUT-018,pasal_didakwakan,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 2,Aditya,Muslim,verified
+PUT-018,pasal_terbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 78; hal. 79,Aditya,Muslim,verified
+PUT-018,tuntutan_bulan,96,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 3,Aditya,Muslim,verified
+PUT-018,vonis_bulan,72,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 79,Aditya,Muslim,verified
+PUT-018,denda_rupiah,1000000000,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 79,Aditya,Muslim,verified
+PUT-018,barang_bukti,1 buah Handphone merk Redmi warna biru,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 79; hal. 80,Aditya,Muslim,verified
+PUT-018,keadaan_memberatkan,Perbuatan Terdakwa dilakukan pada saat Pemerintah sedang giat-giatnya melaksanakan pemberantasan penyalahgunaan Narkotika,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 78,Aditya,Muslim,verified
+PUT-018,keadaan_meringankan,Terdakwa belum pernah dihukum; Terdakwa masih berusia muda sehingga masih ada harapan untuk memperbaiki dirinya dikemudian hari; Terdakwa bersikap sopan dipersidangan dan mengakui terus terang perbuatannya dan Terdakwa menyatakan penyesalannya,putusan_338_pid.sus_2026_pn_sda_20261107180120.pdf,hal. 78,Aditya,Muslim,verified
+PUT-019,nomor_perkara,339/Pid.Sus/2026/PN Sda,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 1,Aditya,Muslim,verified
+PUT-019,pengadilan,Pengadilan Negeri Sidoarjo,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 1,Aditya,Muslim,verified
+PUT-019,tanggal_putusan,2026-09-22,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 91,Aditya,Muslim,verified
+PUT-019,kode_terdakwa,TRD-19-A; TRD-19-B,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 1,Aditya,Muslim,verified
+PUT-019,jenis_narkotika,Sabu,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 3,Aditya,Muslim,verified
+PUT-019,berat_barang_bukti_gram,434.5,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 3,Aditya,Muslim,verified
+PUT-019,pasal_didakwakan,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 3,Aditya,Muslim,verified
+PUT-019,pasal_terbukti,Pasal 114 ayat (2) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 111 ayat (1) Jo Pasal 132 ayat (1) UU No. 35 Tahun 2026,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 86; hal. 87,Aditya,Muslim,verified
+PUT-019,tuntutan_bulan,132,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 3,Aditya,Muslim,verified
+PUT-019,vonis_bulan,108,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 87,Aditya,Muslim,verified
+PUT-019,denda_rupiah,1000000000,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 87,Aditya,Muslim,verified
+PUT-019,barang_bukti,64 poket sabu; 50 poket irisan daun batang dan biji ganja; 1 buah timbangan elektrik warna silver merk Sensun; 1 buah alat hisab sabu; 1 buah isolasi warna bening; 1 pak plastik kosong; 2 buah pipet kaca bekas pakai; 2 potongan sedotan sebagai sekrop; 1 buah Handphone merk OPPO warna abu-abu,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 87; hal. 88  hal. 90,Aditya,Muslim,verified
+PUT-019,keadaan_memberatkan,Perbuatan Para Terdakwa dilakukan pada saat Pemerintah sedang giat-giatnya melaksanakan pemberantasan penyalahgunaan Narkotika,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 86,Aditya,Muslim,verified
+PUT-019,keadaan_meringankan,Para Terdakwa belum pernah dihukum; Para Terdakwa masih berusia muda sehingga masih ada harapan untuk memperbaiki dirinya dikemudian hari; Para Terdakwa bersikap sopan dipersidangan dan mengakui terus terang perbuatannya dan Terdakwa menyatakan penyesalannya,putusan_339_pid.sus_2026_pn_sda_20261105195934.pdf,hal. 86,Aditya,Muslim,verified
+PUT-020,nomor_perkara,340/Pid.Sus/2026/PN Sda,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 1,Aditya,Muslim,verified
+PUT-020,pengadilan,Pengadilan Negeri Sidoarjo,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 1,Aditya,Muslim,verified
+PUT-020,tanggal_putusan,2026-09-16,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 30,Aditya,Muslim,verified
+PUT-020,kode_terdakwa,TRD-20,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 1,Aditya,Muslim,verified
+PUT-020,jenis_narkotika,Sabu,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 2,Aditya,Muslim,verified
+PUT-020,berat_barang_bukti_gram,382.47,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 5,Aditya,Muslim,verified
+PUT-020,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 2,Aditya,Muslim,verified
+PUT-020,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28,Aditya,Muslim,verified
+PUT-020,tuntutan_bulan,144,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 2,Aditya,Muslim,verified
+PUT-020,vonis_bulan,108,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28,Aditya,Muslim,verified
+PUT-020,denda_rupiah,600000000,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28,Aditya,Muslim,verified
+PUT-020,barang_bukti,15 bungkus plastik klip sabu (total berat 382.47 gram); 1 buah kotak susu warna merah merek SGM; 1 buah kotak plastik warna hijau; 1 buah kantong terbuat dari lakban warna coklat; 2 pak amplop angpau kecil; 3 rol lakban warna hitam putih dan bening; 8 pak plastik klip; 6 potongan sedotan plastik warna hitam; 5 buah amplop angpau warna merah; 3 buah potongan sedotan plastik warna hitam (Skrop); 3 bungkus sedotan plastik; 1 buah sendok kecil; 1 buah timbangan elektrik warna silver merek Acis; 1 buah gunting kecil; 1 paket alat hisap sabu / bong; 1 buah HP merek Redmi warna hitam,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28; hal. 29,Aditya,Muslim,verified
+PUT-020,keadaan_memberatkan,Perbuatan Terdakwa tidak mendukung program pemerintah dalam upaya pencegahan dan pemberantasan tindak pidana narkotika; Perbuatan Terdakwa meresahkan masyarakat,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28,Aditya,Muslim,verified
+PUT-020,keadaan_meringankan,Terdakwa mengakui terus terang perbuatannya dalam persidangan; Terdakwa menyesali perbuatannya; Terdakwa tidak berbelit-belit dalam memberikan keterangan dan bersikap kooperatif pada saat persidangan; Terdakwa belum pernah dihukum,putusan_340_pid.sus_2026_pn_sda_20261105140154.pdf,hal. 28,Aditya,Muslim,verified
+PUT-021,nomor_perkara,342/Pid.Sus/2026/PN Sda,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-021,pengadilan,Pengadilan Negeri Sidoarjo,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-021,tanggal_putusan,2026-09-09,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 18,Aditya,Muslim,verified
+PUT-021,kode_terdakwa,TRD-21,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 1,Aditya,Muslim,verified
+PUT-021,jenis_narkotika,Sabu,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-021,berat_barang_bukti_gram,0.52,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 4; hal. 5,Aditya,Muslim,verified
+PUT-021,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-021,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 16,Aditya,Muslim,verified
+PUT-021,tuntutan_bulan,84,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 2,Aditya,Muslim,verified
+PUT-021,vonis_bulan,60,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 17,Aditya,Muslim,verified
+PUT-021,denda_rupiah,1000000000,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 17,Aditya,Muslim,verified
+PUT-021,barang_bukti,1 buah plastik klip berisi sabu berat 0.52 gram beserta bungkusnya; 1 buah HP merk VIVO Warna biru,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 17,Aditya,Muslim,verified
+PUT-021,keadaan_memberatkan,Perbuatan Terdakwa bertentangan dengan program pemerintah yang lagi gencar-gencarnya memberantas peredaran narkoba khususnya di daerah Jawa Timur dan merusak moral generasi muda bangsa,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 16,Aditya,Muslim,verified
+PUT-021,keadaan_meringankan,Terdakwa berterus terang dan berlaku sopan dipersidangan sehingga memperlancar jalannya persidangan; Terdakwa merasa bersalah dan menyesali perbuatannya serta berjanji tidak akan mengulangi perbuatannya lagi; Terdakwa mempunyai tanggungan keluarga; Terdakwa belum pernah dihukum,putusan_342_pid.sus_2026_pn_sda_20261107180441.pdf,hal. 16,Aditya,Muslim,verified
+PUT-022,nomor_perkara,343/Pid.Sus/2026/PN Sda,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 1,Aditya,Muslim,verified
+PUT-022,pengadilan,Pengadilan Negeri Sidoarjo,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 1,Aditya,Muslim,verified
+PUT-022,tanggal_putusan,2026-09-08,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 28,Aditya,Muslim,verified
+PUT-022,kode_terdakwa,TRD-22,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 1,Aditya,Muslim,verified
+PUT-022,jenis_narkotika,Sabu,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 2,Aditya,Muslim,verified
+PUT-022,berat_barang_bukti_gram,11.843,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 6,Aditya,Muslim,verified
+PUT-022,pasal_didakwakan,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (2) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 2,Aditya,Muslim,verified
+PUT-022,pasal_terbukti,Pasal 114 ayat (2) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 27,Aditya,Muslim,verified
+PUT-022,tuntutan_bulan,120,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 2,Aditya,Muslim,verified
+PUT-022,vonis_bulan,96,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 27,Aditya,Muslim,verified
+PUT-022,denda_rupiah,1000000000,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 27,Aditya,Muslim,verified
+PUT-022,barang_bukti,18 bungkus plastik sabu (total berat 16.68 gram); 1 pipet kaca bekas pakai; 2 potongan sedotan berwarna hitam; 5 potongan sedotan berwarna biru; 3 potongan sedotan berwarna hijau; 2 botol kaca sebagai bong; 1 potongan sedotan sebagai skop; 1 pack plastic clip ukuran kecil; 1 pack plastic clip ukuran sedang; 1 timbangan elektrik warna hitam merk CALTECH; 1 handphone merk SAMSUNG warna Hitam serie A07,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 27; hal. 28,Aditya,Muslim,verified
+PUT-022,keadaan_memberatkan,Terdakwa pernah dihukum; Perbuatan terdakwa tidak mendukung upaya pemerintah dalam pemberantasan penyalahgunaan narkotika,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 26,Aditya,Muslim,verified
+PUT-022,keadaan_meringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya,putusan_343_pid.sus_2026_pn_sda_20261107180542.pdf,hal. 26,Aditya,Muslim,verified
+PUT-023,nomor_perkara,352/Pid.Sus/2026/PN Sda,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 1,Aditya,Muslim,verified
+PUT-023,pengadilan,Pengadilan Negeri Sidoarjo,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 1,Aditya,Muslim,verified
+PUT-023,tanggal_putusan,2026-09-15,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 40,Aditya,Muslim,verified
+PUT-023,kode_terdakwa,TRD-23,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 1,Aditya,Muslim,verified
+PUT-023,jenis_narkotika,Sabu,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 2,Aditya,Muslim,verified
+PUT-023,berat_barang_bukti_gram,0.28,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 39,Aditya,Muslim,verified
+PUT-023,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 2,Aditya,Muslim,verified
+PUT-023,pasal_terbukti,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 39,Aditya,Muslim,verified
+PUT-023,tuntutan_bulan,84,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 2,Aditya,Muslim,verified
+PUT-023,vonis_bulan,60,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 39,Aditya,Muslim,verified
+PUT-023,denda_rupiah,300000000,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 39,Aditya,Muslim,verified
+PUT-023,barang_bukti,1 plastik klip isi sabu berat 0.28 gram beserta bungkusnya; 1 buah dompet / sarung Handphone warna hitam; 1 buah Handphone merk OPPO type A18 warna hitam,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 39; hal. 40,Aditya,Muslim,verified
+PUT-023,keadaan_memberatkan,Perbuatan terdakwa menghambat program Pemerintah dalam pemberantasan narkotika,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 38,Aditya,Muslim,verified
+PUT-023,keadaan_meringankan,Terdakwa mengakui perbuatannya; Terdakwa menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_352_pid.sus_2026_pn_sda_20261107180336.pdf,hal. 38,Aditya,Muslim,verified
+PUT-024,nomor_perkara,355/Pid.Sus/2026/PN Sda,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 1,Aditya,Muslim,verified
+PUT-024,pengadilan,Pengadilan Negeri Sidoarjo,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 1,Aditya,Muslim,verified
+PUT-024,tanggal_putusan,2026-09-17,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 24,Aditya,Muslim,verified
+PUT-024,kode_terdakwa,TRD-24,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 1,Aditya,Muslim,verified
+PUT-024,jenis_narkotika,Sabu,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 2,Aditya,Muslim,verified
+PUT-024,berat_barang_bukti_gram,4.546,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 24,Aditya,Muslim,verified
+PUT-024,pasal_didakwakan,Pasal 114 ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026; Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 2,Aditya,Muslim,verified
+PUT-024,pasal_terbukti,Pasal 609 ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23,Aditya,Muslim,verified
+PUT-024,tuntutan_bulan,84,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 2,Aditya,Muslim,verified
+PUT-024,vonis_bulan,60,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23,Aditya,Muslim,verified
+PUT-024,denda_rupiah,510000000,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23,Aditya,Muslim,verified
+PUT-024,barang_bukti,1 kantong plastik berisi sabu berat bersih 4.410 gram; 1 kantong plastik berisi sabu berat bersih 0.135 gram; 1 pipet kaca terdapat sisa sabu berat bersih 0.001 gram; 1 timbangan elektrik merek Digipounds warna hitam; Alat hisap sabu; 1 buah kaos warna hitam mererk T Zone ukuran S; 1 buah tas belanja Indomaret warna biru; 1 unit Handphone merek OPPO F 11 warna hitam,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23; hal. 24,Aditya,Muslim,verified
+PUT-024,keadaan_memberatkan,Perbuatan terdakwa tidak mendukung upaya pemerintah dalam pemberantasan penyalahgunaan narkotika,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23,Aditya,Muslim,verified
+PUT-024,keadaan_meringankan,Terdakwa mengakui terus terang dan menyesali perbuatannya; Terdakwa belum pernah dihukum,putusan_355_pid.sus_2026_pn_sda_20261107180220.pdf,hal. 23,Aditya,Muslim,verified
+PUT-025,nomor_perkara,394/Pid.Sus/2026/PN Sda,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 1,Aditya,Muslim,verified
+PUT-025,pengadilan,Pengadilan Negeri Sidoarjo,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 1,Aditya,Muslim,verified
+PUT-025,tanggal_putusan,2026-09-22,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 26,Aditya,Muslim,verified
+PUT-025,kode_terdakwa,TRD-25,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 1,Aditya,Muslim,verified
+PUT-025,jenis_narkotika,Sabu,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 2,Aditya,Muslim,verified
+PUT-025,berat_barang_bukti_gram,1.6,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 26,Aditya,Muslim,verified
+PUT-025,pasal_didakwakan,Pasal 114 Ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026; Pasal 609 Ayat (1) huruf a UU No. 1 Tahun 2023 Jo UU No. 1 Tahun 2026,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 2,Aditya,Muslim,verified
+PUT-025,pasal_terbukti,Pasal 114 Ayat (1) UU No. 35 Tahun 2009 Jo UU No. 1 Tahun 2026,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 25,Aditya,Muslim,verified
+PUT-025,tuntutan_bulan,108,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 2,Aditya,Muslim,verified
+PUT-025,vonis_bulan,60,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 25,Aditya,Muslim,verified
+PUT-025,denda_rupiah,300000000,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 25,Aditya,Muslim,verified
+PUT-025,barang_bukti,10 poket sabu dengan berat total 1.6 gram; 1 buah Timbangan Elektrik warna silver; 1 buah pipet kaca bekas pakai sabu; 1 buah bong; 2 buah sekrop dari sedotan plastic; 1 bungkus plastic klip kosong; 1 buah korek api Gas; 1 buah HP merk VIVO Warna Silver,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 25; hal. 26,Aditya,Muslim,verified
+PUT-025,keadaan_memberatkan,Perbuatan terdakwa tidak mendukung program pemerintah dalam pemberantasan tindak pidana Narkotika,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 24,Aditya,Muslim,verified
+PUT-025,keadaan_meringankan,Terdakwa bersikap sopan di persidangan; Terdakwa mengakui terus terang menyesali perbuatannya dan berjanji tidak akan mengulangi perbuatannya; Terdakwa belum pernah dihukum,putusan_394_pid.sus_2026_pn_sda_20261107180053.pdf,hal. 24,Aditya,Muslim,verified
