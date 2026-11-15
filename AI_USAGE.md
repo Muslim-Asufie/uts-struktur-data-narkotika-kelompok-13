@@ -1,46 +1,11 @@
-#Penggunaan AI
+# Laporan Transparansi Penggunaan AI
 
-No                          : 1
-Tanggal                     :
-Anggota                     :
-Alat                        :
-Tujuan                      :
-Prompt atau Ringkasannya    :
-Perubahan yang Dilakukan    :
-Cara Verifikasi             :
+## 1. Muhammad Muslim Noor Asufie
+* **NIM:** *202510370110124*
+* **Cakupan Tugas:** Struktur Data (`DynamicArray` & `ArrayStack`), Ekstraksi Data Putusan 26–50, Provenance Data 1–25, dan Dokumentasi Laporan Akhir (`final-report`).
 
-No                          : 2
-Tanggal                     :
-Anggota                     :
-Alat                        :
-Tujuan                      :
-Prompt atau Ringkasannya    :
-Perubahan yang Dilakukan    :
-Cara Verifikasi             :
-
-No                          : 3
-Tanggal                     :
-Anggota                     :
-Alat                        :
-Tujuan                      :
-Prompt atau Ringkasannya    :
-Perubahan yang Dilakukan    :
-Cara Verifikasi             :
-
-No                          : 4
-Tanggal                     :
-Anggota                     :
-Alat                        :
-Tujuan                      :
-Prompt atau Ringkasannya    :
-Perubahan yang Dilakukan    :
-Cara Verifikasi             :
-
-No                          : 5
-Tanggal                     :
-Anggota                     :
-Alat                        :
-Tujuan                      :
-Prompt atau Ringkasannya    :
-Perubahan yang Dilakukan    :
-Cara Verifikasi             :
+| Tanggal | Alat AI | Tujuan Penggunaan | Ringkasan Prompt | Bagian Keluaran yang Digunakan | Perubahan yang Dilakukan | Cara Verifikasi |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2026-11-07 | Gemini | Mendiskusikan terkait tugas bagaimana struktur filenya dan contoh cara ekstrak putusan | Bagaimana struktur file tugas ini dan apa tujuan dari masing-masing filenya, lalu bagaimana referensi halaman untuk mencari data yang ingin diambil dari putusan | Membuat Struktur file dengan mengecek kembali sesuai dengan tugas dan menerapkan saran halaman untuk mendapatkan data dari putusan | Mengecek kembali aturan penugasan dan membaca kembali putusan
+| 2026-11-14 | Gemini | Merancang struktur data mandiri `DynamicArray<T>` dan `ArrayStack<T>` tanpa koleksi bawaan Java | Meminta contoh kerangka implementasi array dinamis dengan ekspansi $2\times$, penyusutan $\le 25\%$, pencacah langkah pencarian, serta stack dengan pencarian non-destruktif. | Kerangka logika method `resize()`, `insert()`, `remove()`, serta konsep stack penyangga sementara pada `searchPreserve()`. | Menambahkan method `validateInvariant()` pada kedua kelas, menyesuaikan tipe generik agar cocok dengan entitas `Putusan`, dan memastikan nol import `java.util`. | Menjalankan unit test JUnit 5 dan mengecek secara manual pergeseran indeks serta konsistensi kapasitas memori. |
+| 2026-11-14 | Gemini | Menyusun struktur dokumen ADR, `CONTRIBUTIONS.md`, dan `README.md` | Meminta penyusunan kerangka dokumentasi teknis (alasan pemilihan struktur data, strategi pencarian/pengurutan, serta panduan menjalankan dan menguji proyek). | Format tabel kontribusi, kerangka Architecture Decision Record (ADR), dan struktur panduan penggunaan CLI. | Menyesuaikan seluruh narasi dengan pembagian tugas nyata kelompok (branch `putusan-26-50`, `struktur-data`, `final-report`) dan contoh output terminal aplikasi asli. | Mengecek ulang seluruh perintah build/test (`mvn test`) dan memastikan semua tautan file serta nama kelas sesuai struktur proyek. |
