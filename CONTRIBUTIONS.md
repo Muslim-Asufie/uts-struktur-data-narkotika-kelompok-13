@@ -16,7 +16,7 @@
 | **Commit Utama** | Menyimpan 25 record data putusan narkotika (nomor 26–50) | `putusan-26-50` | 4b8315cf490eaaf4a777a02b467becb562b206ab | Verified |
 | **Commit Utama** | Menambahkan pemetaan halaman sumber (*provenance*) untuk record 1–25 | `putusan-1-25` | 78510b3b3cb10dc433e0c25b355521f2fc2e922a | Verified |
 | **Commit Utama** | Menyelesaikan implementasi `DynamicArray` dan `ArrayStack` mandiri | `struktur-data` | 7a5131bf030deb386ff1fbf74ff7064104f2f263 | Verified |
-| **Commit Utama** | Menyelesaikan seluruh dokumen pendukung dan laporan akhir proyek | `final-report` | *(Isi tautan Commit)* | Verified |
+| **Commit Utama** | Menyelesaikan seluruh dokumen pendukung dan laporan akhir proyek | `final-report` | d9022d5772d18a6dbfd1ecca6555b539398fb2fc | Verified |
 
 ## 2. Aditya yusuf bakhtiar
 * **NIM:** *202510370110120*
